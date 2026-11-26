@@ -1,0 +1,15 @@
+Dice UI Compare Slider — horizontal / Default.
+
+Author: Dice UI (Sadman Sakib)
+21st.dev: https://21st.dev/@diceui/components/compare-slider
+Author documentation: https://diceui.com/docs/components/radix/compare-slider
+Author registry: https://diceui.com/r/styles/radix-nova/compare-slider.json
+Pinned source:
+https://github.com/sadmann7/diceui/blob/618791b98e571772db9fd643c244b62df71bb726/docs/registry/bases/radix/ui/compare-slider.tsx
+Source of the two registry hooks:
+https://github.com/sadmann7/diceui/tree/618791b98e571772db9fd643c244b62df71bb726/docs/registry/bases/radix/hooks
+
+The slider and its hooks are used under the MIT License included in
+Dice-UI-LICENSE.txt. The site supplies its styles, Russian controls, class-name
+combiner, local images and Lucide icons. Bundled package notices are in
+dependency-licenses.txt.

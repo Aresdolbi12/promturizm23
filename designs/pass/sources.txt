@@ -1,0 +1,24 @@
+«Пропуск в цех» для Южно-Российского форума промышленного туризма
+
+Основа сайта — готовый скачиваемый шаблон разворота BookBlock, Demo 4 (Codrops).
+Действующее авторское демо: https://tympanus.net/Development/BookBlock/index4.html
+Страница проекта: https://tympanus.net/codrops/2012/09/03/bookblock-a-content-flip-plugin/
+Комплект исходников: https://github.com/codrops/BookBlock
+
+Использованы файлы демо
+• index4.html — сохранена структура bb-custom-wrapper / bb-bookblock / bb-item, две створки bb-custom-firstpage и bb-custom-side, навигация под разворотом. Заголовки, содержание и навигация адаптированы для форума.
+• css/demo4.css — перенесены правила парной 50-процентной раскладки, относительного контейнера и перспективы 2000px. Добавлены размеры приглашения, мобильная компоновка, новые краски, типографика и регистрация.
+• css/bookblock.css — оригинальные стили построения и поворота створок, локальная копия vendor/bookblock.css.
+• js/jquery.bookblock.js версии 2.0.1 — оригинальный плагин выполняет поворот страниц. Локальный файл vendor/bookblock.js использует нативную проверку CSS вместо Modernizr, мгновенное переключение при reduced motion и на узком экране. Временные копии страниц скрыты от средств доступности при анимации. Управление, состояния, клавиатура и обработка ссылок приспособлены к этой программе.
+• Демонстрационные иллюстрации, их шрифты и навигация сайта Codrops не входят в этот вариант. Иллюстрации рабочего колеса и ленты созданы для проекта.
+
+Лицензия кода шаблона — MIT. README проекта отсылает к правилам Codrops для downloadable demos. Титульный комментарий js/jquery.bookblock.js также указывает MIT и Copyright 2013 Codrops. Полный текст и авторские уведомления включены в vendor/bookblock-LICENSE.txt.
+https://tympanus.net/codrops/licensing/
+https://github.com/codrops/BookBlock/blob/master/README.md
+
+jQuery 3.7.1 — MIT. Дистрибутив включён локально.
+https://code.jquery.com/jquery-3.7.1.min.js
+vendor/jquery-LICENSE.txt
+
+Oswald — SIL Open Font License 1.1. Для этой страницы подготовлен WOFF2 c латиницей и кириллицей. Полный текст и сведения об авторах — font-license.txt.
+https://github.com/google/fonts/tree/main/ofl/oswald

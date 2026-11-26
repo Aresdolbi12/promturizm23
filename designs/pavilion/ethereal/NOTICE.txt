@@ -1,0 +1,23 @@
+Ethereal by AJ (@ajlkn) for HTML5 UP
+Original design and download: https://html5up.net/ethereal
+Original demo: https://html5up.net/uploads/demos/ethereal/
+Original template license: Creative Commons Attribution 3.0 Unported
+https://creativecommons.org/licenses/by/3.0/
+The full template license is included in CC-BY-3.0.txt.
+
+Adaptation for the Southern Russian Industrial Tourism Forum:
+The panel sequence and content were changed for the forum. Its palette,
+type, photographs, local assets, programme details and registration are new.
+main.css retains the original layout, responsive panel and image rules.
+Unused components, demo imagery, external font and icon imports were removed.
+main.js retains Ethereal's scrolling and navigation framework, adapted for
+form controls, accessible anchors, reduced motion and short screens. Edge
+hover scrolling, the old wheel normalization helper and the demo lightbox
+were omitted or disabled.
+
+jQuery 3.6.0 — OpenJS Foundation and other contributors, MIT license.
+https://jquery.com/ — see jquery-LICENSE.txt.
+browser.js 1.0.1 and breakpoints.js 1.0 — AJ, MIT license.
+https://github.com/ajlkn/responsive-tools — see responsive-tools-LICENSE.txt.
+
+The two photographs have separate attribution and licenses in ../photos.txt.
