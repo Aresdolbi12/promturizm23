@@ -1,0 +1,13 @@
+<!DOCTYPE html><html lang="ru" data-astro-cid-ibpinaeu><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex,follow"><link rel="icon" href="/promturizm23/brand/mark.svg" type="image/svg+xml"><title>Страница не найдена — ЮгПромТуризм</title><style>:root{color:#18382c;background:#f9f7ef;font:1.1rem/1.5 system-ui,sans-serif}main[data-astro-cid-ibpinaeu]{width:min(34rem,88vw);margin:12vh auto}h1[data-astro-cid-ibpinaeu]{font-size:clamp(1.8rem,6vw,3.3rem);line-height:1.05}a[data-astro-cid-ibpinaeu]{color:#164e3a;text-underline-offset:.18em}li[data-astro-cid-ibpinaeu]{margin-block:.5rem}
+</style></head><body data-astro-cid-ibpinaeu><main data-astro-cid-ibpinaeu><h1 data-astro-cid-ibpinaeu>Страница не найдена</h1><p data-astro-cid-ibpinaeu>Перейдите в <a href="/promturizm23/" data-astro-cid-ibpinaeu>галерею «ЮгПромТуризм»</a> или откройте нужный вариант.</p><ul data-astro-cid-ibpinaeu><li data-astro-cid-ibpinaeu><a data-edition href="/promturizm23/journal.html" data-astro-cid-ibpinaeu>Заводской журнал</a></li><li data-astro-cid-ibpinaeu><a data-edition href="/promturizm23/atlas.html" data-astro-cid-ibpinaeu>Полевой атлас</a></li><li data-astro-cid-ibpinaeu><a data-edition href="/promturizm23/signal.html" data-astro-cid-ibpinaeu>Диспетчерская</a></li><li data-astro-cid-ibpinaeu><a data-edition href="/promturizm23/route.html" data-astro-cid-ibpinaeu>Промышленный маршрут</a></li><li data-astro-cid-ibpinaeu><a data-edition href="/promturizm23/workshop.html" data-astro-cid-ibpinaeu>Внутри производства</a></li></ul></main><script>
+      // GitHub Pages serves this document at the old URL without changing the address.
+      for (const link of document.querySelectorAll('a[data-edition]')) {
+        const target = new URL(link.href);
+        const oldPath = target.pathname.slice(0, -'.html'.length);
+        if (![oldPath, oldPath + '/', oldPath + '/index.html'].includes(location.pathname)) continue;
+        target.search = location.search;
+        target.hash = location.hash;
+        location.replace(target.href);
+        break;
+      }
+    </script></body></html>
