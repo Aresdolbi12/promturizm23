@@ -1,0 +1,22 @@
+Слои материала. Источники изображений и справочных данных
+
+Глина — фотоскан Clay Floor 001, Poly Haven, CC0.
+https://polyhaven.com/a/clay_floor_001
+
+Рельеф — фотоскан Patterned Clay Plaster, Poly Haven, CC0.
+https://polyhaven.com/a/patterned_clay_plaster
+У фотосканов скорректирован тон. Экранные версии сохранены в WebP.
+https://polyhaven.com/license
+
+Глазурь — Wall Tile, Изник, XVII век. Подглазурная роспись по фриттовой керамике.
+The Cleveland Museum of Art. Gift of the John Huntington Art and Polytechnic Trust, 1915.651.d.
+Изображение из программы Open Access музея, CC0. Применены кадрирование и сжатие для экрана.
+https://www.clevelandart.org/art/1915.651.d
+https://www.clevelandart.org/open-access
+
+Три поверхности служат иллюстрациями разных стадий. Историческая плитка представлена отдельно как пример подглазурного орнамента.
+Порядок стадий производства глазурованной керамической плитки — IFC, Environmental, Health, and Safety Guidelines for Ceramic Tile and Sanitary Ware Manufacturing, рис. A.1.
+https://www.ifc.org/content/dam/ifc/doc/2000/2007-ceramic-tile-sanitary-ware-ehs-guidelines-en.pdf
+
+Шрифт Yeseva One — SIL Open Font License 1.1, см. Yeseva-OFL.txt.
+https://github.com/google/fonts/tree/main/ofl/yesevaone
