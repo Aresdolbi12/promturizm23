@@ -1,0 +1,23 @@
+Полевой атлас Кубани
+
+Берег, контур Краснодарского края и река Кубань
+Natural Earth, масштаб исходных данных 1:10 000 000. Наборы Admin 1 – States, Provinces и Rivers + Lake Centerlines. Для экранной карты геометрия обрезана по охвату карты, упрощена и спроецирована в сферическую проекцию Меркатора. Векторные данные Natural Earth находятся в общественном достоянии.
+https://www.naturalearthdata.com/about/terms-of-use/
+https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-1-states-provinces/
+https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-rivers-lake-centerlines/
+
+Рельеф
+Глобальная модель высот Mapzen Terrain Tiles, распространение через AWS Open Data. Использованы фрагменты Terrarium уровня 7. Из исходных высот для этого атласа рассчитаны освещение склонов, тональные полосы высоты и одноцветная растровая подложка.
+https://registry.opendata.aws/terrain-tiles/
+https://s3.amazonaws.com/elevation-tiles-prod/index.html
+
+Поставщики исходных глобальных и европейских моделей
+• SRTM и GMTED2010 — U.S. Geological Survey (USGS).
+• ETOPO1 — U.S. National Oceanic and Atmospheric Administration (NOAA).
+• EU-DEM — данные и информация европейской программы Copernicus, финансирование Европейского союза.
+Полный перечень поставщиков, условия по конкретным моделям и уведомления об авторских правах опубликованы командой Mapzen/Tilezen:
+https://github.com/tilezen/joerd/blob/master/docs/attribution.md
+
+Объекты промышленного туризма
+Координаты четырёх меток взяты из соответствующих карточек краевого каталога. Ссылки на эти карточки есть у каждого предприятия в разделе «Производства в атласе».
+https://vitrina.promkuban.ru/tourism/companies/
