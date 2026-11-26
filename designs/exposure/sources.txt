@@ -1,0 +1,44 @@
+Кинохроника. Блоки сайта
+
+Carousel — Julien Thibeaut, Motion Primitives.
+Карточка с лицензией MIT: https://21st.dev/@ibelick/components/carousel
+Исходный React-компонент: https://motion-primitives.com/c/carousel.json
+Вариант форума использует Carousel, CarouselContent и CarouselItem.
+Убрано вычисление числа видимых изображений для ленты с одним полноразмерным кадром.
+Выбор кадра и пояснения оформлены как монтажный лист.
+
+Layout Grid — Manu Arora, Aceternity UI.
+Карточка с лицензией MIT: https://21st.dev/@manuarora700/components/layout-grid
+Исходный React-компонент: https://ui.aceternity.com/registry/layout-grid.json
+Раскрытие выбранного кадра, общие layoutId фотографии, контейнера и текста,
+затемнение фона и переход между состояниями адаптированы для архивных фотографий.
+Добавлены клавиатурное управление, возврат фокуса и ссылки на отдельные снимки.
+
+Timeline — Manu Arora, Aceternity UI.
+Карточка с лицензией MIT: https://21st.dev/@manuarora700/components/timeline
+Исходный React-компонент: https://ui.aceternity.com/registry/timeline.json
+Вертикальная шкала, закреплённое время и индикатор прокрутки адаптированы
+для расписания одного дня. Высота пересчитывается при изменении верстки.
+
+Условия использования этих трёх блоков — components-MIT.txt.
+Лицензии включённых программных зависимостей — dependency-licenses.txt.
+
+Фотографии
+
+Альфред Т. Палмер. Библиотека Конгресса США, подразделение эстампов и фотографий,
+коллекция цветных диапозитивов Farm Security Administration / Office of War Information.
+Условия публикации коллекции: https://www.loc.gov/rr/print/res/072_fsac.html
+Для этих снимков в каталоге указано, что известных ограничений на публикацию нет.
+Цветные диапозитивы преобразованы в WebP.
+Кадры предоставляют исторический контекст и в подписях указаны места съёмки.
+
+Разлив стали. LC-DIG-fsac-1a35062 — https://loc.gov/pictures/resource/fsac.1a35062/
+Работа сверловщицы. LC-DIG-fsac-1a35309 — https://www.loc.gov/item/2017878515/
+Монтаж двигателя. LC-DIG-fsac-1a35357 — https://www.loc.gov/item/2017878925/
+У печи. LC-DIG-fsac-1a35060 — https://www.flickr.com/photos/library_of_congress/2179220298/
+Перед прессом. LC-DIG-fsac-1a35307 — https://www.loc.gov/item/2017878513/
+На переплавку. LC-DIG-fsac-1a35061 — https://www.flickr.com/photos/library_of_congress/2179220446/
+
+Шрифт Literata — The Literata Project Authors, SIL Open Font License 1.1.
+Исходник: https://github.com/google/fonts/tree/main/ofl/literata
+Условия: Literata-OFL.txt.

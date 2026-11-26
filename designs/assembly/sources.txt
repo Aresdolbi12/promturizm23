@@ -1,0 +1,24 @@
+Сборочный лист · готовые блоки
+
+1. Magic UI — Bento Grid / BentoCard (MIT)
+Карточка: https://21st.dev/@dillionverma/components/bento-grid
+Исходник автора: https://github.com/magicuidesign/magicui/blob/a54d9edd7bd01dfb4fa72641df2b84da449a5e35/apps/www/registry/magicui/bento-grid.tsx
+Magic-UI-LICENSE.txt в этой папке.
+Композиция первой полосы использует сетку и карточки BentoGrid/BentoCard. Для печатного плаката изменены классы, уровни заголовков и графика. Из двух адаптивных ссылок в печатной теме на всех экранах показана постоянно доступная версия. Карточки формируются на сервере.
+
+2. Origin UI — Accordion (MIT)
+Карточка: https://21st.dev/@originui/components/accordion
+Исходник автора: https://github.com/origin-space/originui/blob/11f4620946e5fb0e2c12a815388ccdf5b3120dd0/apps/origin/registry/default/ui/accordion.tsx
+Расписание использует авторские Accordion, AccordionItem, AccordionTrigger и AccordionContent на Radix.
+
+3. Origin UI — Tabs (MIT)
+Карточка: https://21st.dev/@originui/components/tabs
+Исходник автора: https://github.com/origin-space/originui/blob/11f4620946e5fb0e2c12a815388ccdf5b3120dd0/apps/origin/registry/default/ui/tabs.tsx
+Четыре страницы предприятий группируются по населённому пункту с помощью Tabs, TabsList, TabsTrigger и TabsContent.
+Компоненты Origin UI сохранены из авторского репозитория. Цвета, типографика и отступы заданы локальными стилями. Origin-UI-LICENSE.txt и dependency-licenses.txt содержат лицензии компонентов и зависимостей.
+
+Фотография — Mixabest, KUKA Industrial Robots IR, 2007.
+https://commons.wikimedia.org/wiki/File:KUKA_Industrial_Robots_IR.jpg
+CC BY-SA 3.0 Unported: https://creativecommons.org/licenses/by-sa/3.0/
+Для экрана снимок переведён в WebP, кадрируется и тонируется стилями. Версия robots.webp и обработка этого изображения распространяются по той же лицензии. Снимок иллюстрирует промышленную робототехнику.
+Шрифт Oswald — SIL Open Font License (Oswald-OFL.txt).
